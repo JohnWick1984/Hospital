@@ -1,0 +1,12 @@
+Name: John Doe
+Admission Date: 10.09.2023
+Discharge Date: 18.09.2023
+Diagnosis: Fever
+Treating Doctor: Dr. Smith
+
+Name: Jane Smith
+Admission Date: 11.09.2023
+Discharge Date: 25.09.2023
+Diagnosis: Broken Arm
+Treating Doctor: Dr. Johnson
+
